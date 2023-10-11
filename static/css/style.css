@@ -1,0 +1,66 @@
+body {
+    background-color: #081b29;
+    font-weight: 500;
+}
+
+li a {
+    font-size: 18px;
+}
+
+.home-content h1 {
+   font-family: 'Phudu', cursive;
+    color: white;
+    font-size: 40px;
+    line-height: 1, 2;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Phudu', cursive;
+    color: #00abf0;
+    font-size: 400px;
+    font-weight: 300;
+}
+
+.navbar {
+    background-color: #081b29;
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+.navbar-nav  a:hover {
+    color: #00abf0;
+
+}
+
+.home-content {
+    margin: 20%;
+}
+
+p {
+    color: white;
+}
+
+.about-content {
+    border: 1px solid grey;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+}
+
+#about {
+    margin: auto;
+    padding-top: 12%;
+}
+
+.portofolio-content {
+    border: 1px solid grey;
+    margin-top: 90px;
+    padding: 7%;
+}
+
+#contact {
+    padding: 9%;
+}
